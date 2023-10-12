@@ -8,6 +8,10 @@ This excalidraw library adds some nice and shiny Camunda icons to your library f
 
 ## How to import
 
-Just download the file `library.excalidrawlib` and open it in excalidraw
+- Download the file `library.excalidrawlib` to your local machine
+- Go to https://www.excalidraw.com
+- Open your library by clicking on `Library` in the top right corner
+- Select the three dots and click on `Open`
+- Import the library file from your local machine
 
 ![Import](how_to_import.png)
